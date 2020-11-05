@@ -2,9 +2,7 @@ name,iso_code,capital,phone_code,population,coordinates,currency,area,domain,wik
 Russia,RU,Moscow,+7,146748590,﻿              55.750°N 37.617°E               ﻿ ,Russianruble(₽)(RUB),17098246km2,".ru , .su , .рф",https://en.wikipedia.org//wiki/Russia
 Canada,No Data,Ottawa,+1,38005238,﻿              45.400°N 75.667°W               ﻿ ,Canadiandollar($)(CAD),9984670km2,.ca,https://en.wikipedia.org//wiki/Canada
 China,CN,Beijing,+86,1400050000,﻿              39.917°N 116.383°E               ﻿ ,Renminbi(yuan¥)[i](CNY),9596961km2,".cn , .中国 , .中國",https://en.wikipedia.org//wiki/China
-United States,US,"
-Washington, D.C.
-",+1,328239523,﻿                    38.883°N 77.017°W                     ﻿ ,UnitedStatesdollar($)(USD),3796742km2,".com , .org , .net , .edu , .gov , .mil , .S , .us , .pr , .as , .gu , .mp , .vi , .um , .S",https://en.wikipedia.org//wiki/United_States
+United States,US,"Washington, D.C.",+1,328239523,﻿                    38.883°N 77.017°W                     ﻿ ,UnitedStatesdollar($)(USD),3796742km2,".com , .org , .net , .edu , .gov , .mil , .S , .us , .pr , .as , .gu , .mp , .vi , .um , .S",https://en.wikipedia.org//wiki/United_States
 Brazil,BR,Brasília,+55,210147125,﻿                15.783°S 47.867°W                 ﻿ ,Real(R$)(BRL),8515767km2,.br,https://en.wikipedia.org//wiki/Brazil
 Australia,AU,Canberra,+61,25692300,﻿              35.30806°S 149.12444°E               ﻿ ,Australiandollar(AUD),7692024km2,.au,https://en.wikipedia.org//wiki/Australia
 India,IN,New Delhi,+91,1352642280,﻿              28.61389°N 77.20833°E               ﻿ ,Indianrupee(₹)(INR),61389km2,.in,https://en.wikipedia.org//wiki/India
@@ -18,21 +16,21 @@ Saudi Arabia,SA,Riyadh,+966,34218169,﻿              24.650°N 46.767°E       
 Mexico,MX,Mexico City,+52,128649565,﻿              19.433°N 99.133°W               ﻿ ,Peso(MXN),1972550km2,.mx,https://en.wikipedia.org//wiki/Mexico
 Indonesia,ID,Jakarta,+62,267670543,﻿              6.167°S 106.817°E               ﻿ ,Indonesianrupiah(Rp)(IDR),1904569km2,.id,https://en.wikipedia.org//wiki/Indonesia
 Sudan,SD,Khartoum,+249,41592539,﻿              15.633°N 32.533°E               ﻿ ,Sudanesepound(SDG),1886068km2,.sd,https://en.wikipedia.org//wiki/Sudan
-Libya,LY,Tripoli[,+218,6871287,﻿              32.867°N 13.183°E               ﻿ ,Libyandinar(LYD),1759541km2,.ly,https://en.wikipedia.org//wiki/Libya
+Libya,LY,Tripoli,+218,6871287,﻿              32.867°N 13.183°E               ﻿ ,Libyandinar(LYD),1759541km2,.ly,https://en.wikipedia.org//wiki/Libya
 Iran,IR,Tehran,+98,83183741,﻿              35.683°N 51.417°E               ﻿ ,Rial(ریال)(IRR),1648195km2,.ir,https://en.wikipedia.org//wiki/Iran
-Mongolia,MN,Ulaanbaatar[a]Coordinates: ,+976,3353470,﻿                  48°N 106°E                   ﻿ ,Tögrög(MNT),1566000km2,".mn , .мон",https://en.wikipedia.org//wiki/Mongolia
+Mongolia,MN,Ulaanbaatar,+976,3353470,﻿                  48°N 106°E                   ﻿ ,Tögrög(MNT),1566000km2,".mn , .мон",https://en.wikipedia.org//wiki/Mongolia
 Peru,PE,Lima,+51,32824358,﻿              12.0433°S 77.0283°W               ﻿ ,Sol(PEN),1285216km2,.pe,https://en.wikipedia.org//wiki/Peru
 Chad,TD,N'Djamena,+235,13670084,﻿              12.100°N 16.033°E               ﻿ ,CentralAfricanCFAfranc(XAF),1284000km2,.td,https://en.wikipedia.org//wiki/Chad
 Niger,NE,Niamey,+227,22442831,﻿              13.533°N 2.083°E               ﻿ ,WestAfricanCFAfranc(XOF),1267000km2,.ne,https://en.wikipedia.org//wiki/Niger
 Angola,AO,Luanda,+244,31127674,﻿              8.833°S 13.333°E               ﻿ ,Kwanza(AOA),1246700km2,.ao,https://en.wikipedia.org//wiki/Angola
 Mali,ML,Bamako,+223,20250833,﻿              12.650°N 8.000°W               ﻿ ,WestAfricanCFAfranc(XOF),1240192km2,.ml,https://en.wikipedia.org//wiki/Mali
-South Africa,ZA,Pretoria (executive)[,+27,59622350,No Data,SouthAfricanrand(ZAR),1221037km2,.za,https://en.wikipedia.org//wiki/South_Africa
+South Africa,ZA,Pretoria (executive),+27,59622350,No Data,SouthAfricanrand(ZAR),1221037km2,.za,https://en.wikipedia.org//wiki/South_Africa
 Colombia,CO,Bogotá,+57,50372424,﻿              4.583°N 74.067°W               ﻿ ,Peso(COP),1141748km2,.co,https://en.wikipedia.org//wiki/Colombia
 Ethiopia,ET,Addis Ababa,+251,109224414,﻿              9.017°N 38.750°E               ﻿ ,Birr(ETB),1104300km2,.et,https://en.wikipedia.org//wiki/Ethiopia
-Bolivia,BO,Sucre (constitutional and judicial)La Paz (executive and legislative)Largest citySanta Cruz de la Sierra,+591,11428245,No Data,Boliviano(BOB),1098581km2,.bo,https://en.wikipedia.org//wiki/Bolivia
+Bolivia,BO,Sucre (constitutional and judicial)La Paz (executive and legislative),+591,11428245,No Data,Boliviano(BOB),1098581km2,.bo,https://en.wikipedia.org//wiki/Bolivia
 Mauritania,MR,Nouakchott,+222,4403313,﻿              18.150°N 15.967°W               ﻿ ,Ouguiya(MRU),1030000km2,.mr,https://en.wikipedia.org//wiki/Mauritania
 Egypt,EG,Cairo,+20,100075480,﻿              30.033°N 31.217°E               ﻿ ,Egyptianpound(E£)(EGP),1010408km2,.eg,https://en.wikipedia.org//wiki/Egypt
-Tanzania,TZ,DodomaLargest cityDar es SalaamOfficial LanguageSwahili[,+255,56313438,No Data,Tanzanianshilling(TZS),947303km2,.tz,https://en.wikipedia.org//wiki/Tanzania
+Tanzania,TZ,DodomaLargest cityDar es Salaam,+255,56313438,No Data,Tanzanianshilling(TZS),947303km2,.tz,https://en.wikipedia.org//wiki/Tanzania
 Nigeria,NG,Abuja,+234,206630269,﻿              9.067°N 7.483°E               ﻿ ,Naira(₦)(NGN),923769km2,.ng,https://en.wikipedia.org//wiki/Nigeria
 Venezuela,VE,Caracas,+58,28887118,﻿              10.500°N 66.917°W               ﻿ ,BolívarSoberano(VES),916445km2,.ve,https://en.wikipedia.org//wiki/Venezuela
 Pakistan,PK,Islamabad,+92,212228286,﻿              33.69167°N 73.05000°E               ﻿ ,Pakistanirupee(₨)(PKR),881913km2,.pk,https://en.wikipedia.org//wiki/Pakistan
@@ -51,7 +49,7 @@ Ukraine,UA,Kyiv,+380,41743935,﻿              49°N 32°E               ﻿ ,Uk
 Madagascar,MG,Antananarivo,+261,26262313,﻿              18.917°S 47.517°E               ﻿ ,Malagasyariary(MGA),587041km2,.mg,https://en.wikipedia.org//wiki/Madagascar
 Botswana,BW,Gaborone,+267,2254068,﻿              24.6583°S 25.9083°E               ﻿ ,Botswanapula(BWP),581730km2,.bw,https://en.wikipedia.org//wiki/Botswana
 Kenya,KE,Nairobi,+254,47564296,﻿              1.267°S 36.800°E               ﻿ ,Kenyanshilling(KES),580367km2,.ke,https://en.wikipedia.org//wiki/Kenya
-Yemen,No Data,Sanaa (de jure)  under the SPC control Aden (Temporary capital)Coordinates: ,+967,28498683,﻿                  15.34833°N 44.20639°E                   ﻿ ,Yemenirial(YER),527968km2,.ye,https://en.wikipedia.org//wiki/Yemen
+Yemen,No Data,Sanaa (de jure)  under the SPC control Aden (Temporary capital) ,+967,28498683,﻿                  15.34833°N 44.20639°E                   ﻿ ,Yemenirial(YER),527968km2,.ye,https://en.wikipedia.org//wiki/Yemen
 Thailand,TH,Bangkok,+66,66558935,﻿              13.750°N 100.483°E               ﻿ ,Baht(฿)(THB),513120km2,".th , .ไทย",https://en.wikipedia.org//wiki/Thailand
 Spain,ES,Madrid,+34,47431256,﻿              40.433°N 3.700°W               ﻿ ,Euro[f](€)(EUR),505990km2,.es,https://en.wikipedia.org//wiki/Spain
 Turkmenistan,TM,Ashgabat,+993,6031187,﻿              37.967°N 58.333°E               ﻿ ,Turkmennewmanat(TMT),491210km2,.tm,https://en.wikipedia.org//wiki/Turkmenistan
@@ -104,7 +102,7 @@ Nicaragua,NI,Managua,+505,6486201,﻿              12.100°N 86.233°W          
 North Korea,KP,Pyongyang,+850,25549604,﻿              39.033°N 125.750°E               ﻿ ,KoreanPeople'swon(₩)(KPW),120540km2,.kp,https://en.wikipedia.org//wiki/North_Korea
 Malawi,MW,Lilongwe,+265,19129952,﻿              13.950°S 33.700°E               ﻿ ,Kwacha(D)(MWK),118484km2,.mw,https://en.wikipedia.org//wiki/Malawi
 Eritrea,ER,Asmara,+291,6081196,﻿              15.333°N 38.917°E               ﻿ ,Nakfa(ERN),117600km2,.er,https://en.wikipedia.org//wiki/Eritrea
-Benin,BJ,"Porto-NovoaLargest cityCotonou",+229,11733059,No Data,WestAfricanCFAfranc(XOF),114763km2,.bj,https://en.wikipedia.org//wiki/Benin
+Benin,BJ,"Porto-Novoa",+229,11733059,No Data,WestAfricanCFAfranc(XOF),114763km2,.bj,https://en.wikipedia.org//wiki/Benin
 Honduras,HN,Tegucigalpa,+504,9587522,﻿              14.100°N 87.217°W               ﻿ ,Lempira(HNL),112492km2,.hn,https://en.wikipedia.org//wiki/Honduras
 Liberia,LR,Monrovia,+231,5073296,﻿              6.317°N 10.800°W               ﻿ ,Liberiandollar(LRD),111369km2,.lr,https://en.wikipedia.org//wiki/Liberia
 Bulgaria,BG,Sofia,+359,6951482,﻿              42.683°N 23.317°E               ﻿ ,Lev(BGN),110993km2,".bg , .бг",https://en.wikipedia.org//wiki/Bulgaria
@@ -135,10 +133,10 @@ Costa Rica,CR,San José,+506,4999441,﻿              9.933°N 84.083°W        
 Slovakia,SK,Bratislava,+421,5457926,﻿              48.150°N 17.117°E               ﻿ ,Euro(€)(EUR),49035km2,".sk , .eu",https://en.wikipedia.org//wiki/Slovakia
 Dominican Republic,DO,Santo Domingo,"+1 , +1 , +1",10878246,﻿              19.000°N 70.667°W               ﻿ ,Peso[15](DOP),48671km2,.do,https://en.wikipedia.org//wiki/Dominican_Republic
 Estonia,EE,Tallinna,+372,1328976,﻿              59.417°N 24.750°E               ﻿ ,Euro(€)(EUR),45227km2,.ee,https://en.wikipedia.org//wiki/Estonia
-Netherlands,NL,Amsterdam[a],"+31 , +599",17418808,﻿              52.367°N 4.883°E               ﻿ ,"Euro(€,EUR)USdollar($,USD)[d]",41865km2,".nl , .bq",https://en.wikipedia.org//wiki/Netherlands
+Netherlands,NL,Amsterdam,"+31 , +599",17418808,﻿              52.367°N 4.883°E               ﻿ ,"Euro(€,EUR)USdollar($,USD)[d]",41865km2,".nl , .bq",https://en.wikipedia.org//wiki/Netherlands
 Switzerland,CH,None (de jure)Bern (de facto)[note ,+41,8570146,﻿              46.950°N 7.450°E               ﻿ ,Swissfranc(CHF),41285km2,".ch , .swiss",https://en.wikipedia.org//wiki/Switzerland
 Bhutan,BT,Thimphu,+975,754388,﻿              27.4667°N 89.6417°E               ﻿ ,Ngultrum(BTN),38394km2,.bt,https://en.wikipedia.org//wiki/Bhutan
-Taiwan,TW,Taipei[a][,+886,23568378,﻿              25.067°N 121.517°E               ﻿ ,NewTaiwandollar(NT$)(TWD),No Data,".tw , .台灣 , .台湾",https://en.wikipedia.org//wiki/Taiwan
+Taiwan,TW,Taipei,+886,23568378,﻿              25.067°N 121.517°E               ﻿ ,NewTaiwandollar(NT$)(TWD),No Data,".tw , .台灣 , .台湾",https://en.wikipedia.org//wiki/Taiwan
 Guinea-Bissau,GW,Bissau,+245,1874303,﻿              11.867°N 15.600°W               ﻿ ,WestAfricanCFAfranc(XOF),36125km2,.gw,https://en.wikipedia.org//wiki/Guinea-Bissau
 Moldova,MD,Chișinău,+373,2640438,﻿              47.000°N 28.917°E               ﻿ ,Leu(MDL),33846km2,.md,https://en.wikipedia.org//wiki/Moldova
 Belgium,BE,Brussels,+32,11492641,﻿              50.850°N 4.350°E               ﻿ ,Euro(€)(EUR),30689km2,.be,https://en.wikipedia.org//wiki/Belgium
@@ -148,7 +146,7 @@ Solomon Islands,SB,Honiara,+677,652857,﻿              9.467°S 159.817°E     
 Albania,AL,Tirana,+355,2845955,﻿              41.317°N 19.817°E               ﻿ ,Lek(ALL),28748km2,.al,https://en.wikipedia.org//wiki/Albania
 Equatorial Guinea,GQ,Malabo (current) Ciudad de la Paz (under construction),+240,1308975,﻿              3.750°N 8.783°E               ﻿ ,CentralAfricanCFAfranc(XAF),28050km2,.gq,https://en.wikipedia.org//wiki/Equatorial_Guinea
 Burundi,BI,"Gitega (political)
-Bujumbura (economic)[a]",+257,11865821,﻿              3.500°S 30.000°E               ﻿ ,Burundianfranc(FBu)(BIF),27834km2,.bi,https://en.wikipedia.org//wiki/Burundi
+Bujumbura (economic)",+257,11865821,﻿              3.500°S 30.000°E               ﻿ ,Burundianfranc(FBu)(BIF),27834km2,.bi,https://en.wikipedia.org//wiki/Burundi
 Haiti,HT,Port-au-Prince,+509,11439646,﻿              18.533°N 72.333°W               ﻿ ,Haitiangourde(G)(HTG),27750km2,.ht,https://en.wikipedia.org//wiki/Haiti
 Rwanda,RW,Kigali,+250,12374397,﻿              1.94389°S 30.05944°E               ﻿ ,Rwandanfranc(RWF),26338km2,.rw,https://en.wikipedia.org//wiki/Rwanda
 North Macedonia,MK,Skopje,+389,2077132,﻿              42.000°N 21.433°E               ﻿ ,Macedoniandenar(MKD),25713km2,".mk , .мкд",https://en.wikipedia.org//wiki/North_Macedonia
