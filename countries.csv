@@ -79,12 +79,10 @@ Ecuador,EC,Quito00°,+593,17084358,﻿              0.150°S 78.350°W          
 Burkina Faso,BF,Ouagadougou,+226,21510181,﻿              12.367°N 1.533°W               ﻿ ,WestAfricanCFAfranc[8](XOF),274200km2,.bf,https://en.wikipedia.org//wiki/Burkina_Faso
 New Zealand,NZ,Wellington,+64,5094610,﻿              41.300°S 174.783°E               ﻿ ,NewZealanddollar($)(NZD),268021km2,.nz,https://en.wikipedia.org//wiki/New_Zealand
 Gabon,GA,Libreville0°,+241,2119275,﻿              0.383°N 9.450°E               ﻿ ,CentralAfricanCFAfranc(XAF),267667km2,.ga,https://en.wikipedia.org//wiki/Gabon
-Sahrawi Arab Democratic Republic,No Data,"Laayounea (claimed)Tifariti (de facto)LargestLaayoune (claimed)Official languages
-Arabic
-Spanish[",No Data,100000,No Data,"de facto-Moroccan dirham(inclaimedareas)de jure-Sahrawipeseta,Algeriandinar,Mauritanianouguiya",No Data,,https://en.wikipedia.org//wiki/Sahrawi_Arab_Democratic_Republic
+Sahrawi Arab Democratic Republic,No Data,"Laayounea (claimed)Tifariti (de facto)LargestLaayoune (claimed)",No Data,100000,No Data,"de facto-Moroccan dirham(inclaimedareas)de jure-Sahrawipeseta,Algeriandinar,Mauritanianouguiya",No Data,,https://en.wikipedia.org//wiki/Sahrawi_Arab_Democratic_Republic
 Guinea,GN,Conakry,+224,12414293,﻿              9.517°N 13.700°W               ﻿ ,Guineanfranc(GNF),245857km2,.gn,https://en.wikipedia.org//wiki/Guinea
 United Kingdom,GB,London,+44,67886004,﻿              51.500°N 0.117°W               ﻿ ,Pound sterling[note5](GBP),242495km2,.uk,https://en.wikipedia.org//wiki/United_Kingdom
-Uganda,UG,KampalaOfficial languagesEnglishSwahili[,+256,42729036,No Data,Ugandanshilling(UGX),241038km2,.ug,https://en.wikipedia.org//wiki/Uganda
+Uganda,UG,Kampala,+256,42729036,No Data,Ugandanshilling(UGX),241038km2,.ug,https://en.wikipedia.org//wiki/Uganda
 Ghana,GH,Accra,+233,31072940,﻿              5.550°N 0.200°W               ﻿ ,Ghanaiancedi(GHS),239567km2,.gh,https://en.wikipedia.org//wiki/Ghana
 Romania,RO,Bucharest,+40,19317984,﻿              44.417°N 26.100°E               ﻿ ,Romanianleu(RON),238397km2,.ro,https://en.wikipedia.org//wiki/Romania
 Laos,LA,Vientiane,+856,7123205,﻿              17.967°N 102.600°E               ﻿ ,Kip(₭)(LAK),237955km2,.la,https://en.wikipedia.org//wiki/Laos
@@ -106,10 +104,7 @@ Nicaragua,NI,Managua,+505,6486201,﻿              12.100°N 86.233°W          
 North Korea,KP,Pyongyang,+850,25549604,﻿              39.033°N 125.750°E               ﻿ ,KoreanPeople'swon(₩)(KPW),120540km2,.kp,https://en.wikipedia.org//wiki/North_Korea
 Malawi,MW,Lilongwe,+265,19129952,﻿              13.950°S 33.700°E               ﻿ ,Kwacha(D)(MWK),118484km2,.mw,https://en.wikipedia.org//wiki/Malawi
 Eritrea,ER,Asmara,+291,6081196,﻿              15.333°N 38.917°E               ﻿ ,Nakfa(ERN),117600km2,.er,https://en.wikipedia.org//wiki/Eritrea
-Benin,BJ,"Porto-NovoaLargest cityCotonouOfficial languagesFrenchNational languages
-List:
-FonYorubaFula
-Bariba[",+229,11733059,No Data,WestAfricanCFAfranc(XOF),114763km2,.bj,https://en.wikipedia.org//wiki/Benin
+Benin,BJ,"Porto-NovoaLargest cityCotonou,+229,11733059,No Data,WestAfricanCFAfranc(XOF),114763km2,.bj,https://en.wikipedia.org//wiki/Benin
 Honduras,HN,Tegucigalpa,+504,9587522,﻿              14.100°N 87.217°W               ﻿ ,Lempira(HNL),112492km2,.hn,https://en.wikipedia.org//wiki/Honduras
 Liberia,LR,Monrovia,+231,5073296,﻿              6.317°N 10.800°W               ﻿ ,Liberiandollar(LRD),111369km2,.lr,https://en.wikipedia.org//wiki/Liberia
 Bulgaria,BG,Sofia,+359,6951482,﻿              42.683°N 23.317°E               ﻿ ,Lev(BGN),110993km2,".bg , .бг",https://en.wikipedia.org//wiki/Bulgaria
@@ -189,7 +184,7 @@ State of Palestine,PS,No Data,+970,5051953,No Data,Egyptianpound(EGP)Israelinews
 Brunei,BN,Bandar Seri Begawan,+673,459500,﻿              4.890283°N 114.942217°E               ﻿ ,Bruneidollar(BND),No Data,.bn,https://en.wikipedia.org//wiki/Brunei
 Trinidad and Tobago,TT,Port of Spain,+1,1363985,﻿              10.66667°N 61.50750°W               ﻿ ,TrinidadandTobagodollar(TTD),No Data,.tt,https://en.wikipedia.org//wiki/Trinidad_and_Tobago
 French Polynesia,PF               FR-PF,Papeete,+689,275918,﻿              17.567°S 149.600°W               ﻿ ,CFPfranc(XPF),No Data,.pf,https://en.wikipedia.org//wiki/French_Polynesia
-Transnistria,No Data,TiraspolOfficial languagesRussianaMoldovanb[,+373,469000,No Data,Transnistrianrubled(PRB),No Data,,https://en.wikipedia.org//wiki/Transnistria
+Transnistria,No Data,Tiraspol,+373,469000,No Data,Transnistrianrubled(PRB),No Data,,https://en.wikipedia.org//wiki/Transnistria
 Cape Verde,CV,Praia,+238,543767,﻿              14.917°N 23.517°W               ﻿ ,CapeVerdeanescudo(CVE),No Data,.cv,https://en.wikipedia.org//wiki/Cape_Verde
 South Georgia and the South Sandwich Islands,GS,and largest settlementKing Edward Point,+500,No Data,﻿              54.28333°S 36.50000°W               ﻿ ,FalklandIslandspound(£)(FKP),No Data,.gs,https://en.wikipedia.org//wiki/South_Georgia_and_the_South_Sandwich_Islands
 South Ossetia,No Data,Tskhinvali,+995,53532,﻿              42.233°N 43.967°E               ﻿ ,Russianruble(RUB),No Data,No Data,https://en.wikipedia.org//wiki/South_Ossetia
@@ -212,7 +207,7 @@ Singapore,SG,Singapore[note ,+65,5703600,﻿              1.283°N 103.833°E   
 Federated States of Micronesia,FM,Palikir,+691,104468,﻿              6.917°N 158.183°E               ﻿ ,UnitedStatesdollar(USD),No Data,.fm,https://en.wikipedia.org//wiki/Federated_States_of_Micronesia
 Saint Lucia,LC,Castries,+1,181889,﻿              14.017°N 60.983°W               ﻿ ,EastCaribbeandollar(XCD),No Data,.lc,https://en.wikipedia.org//wiki/Saint_Lucia
 Isle of Man,IM,Douglas,+44,83314,﻿              54.150°N 4.483°W               ﻿ ,PoundsterlingManxpound(£)(GBP),No Data,.im,https://en.wikipedia.org//wiki/Isle_of_Man
-Guam,GU               US-GU,HagåtñaLargest cityDededoOfficial languagesEnglishChamorroEthnic groups  (,+1,168485,No Data,UnitedStatesdollar(US$)(USD),No Data,.gu,https://en.wikipedia.org//wiki/Guam
+Guam,GU US-GU,Hagåtña,+1,168485,No Data,UnitedStatesdollar(US$)(USD),No Data,.gu,https://en.wikipedia.org//wiki/Guam
 Andorra,AD,Andorra la Vella,+376,77543,﻿              42.500°N 1.517°E               ﻿ ,Euroe(EUR),No Data,.ad,https://en.wikipedia.org//wiki/Andorra
 Northern Mariana Islands,MP               US-MP,Saipan,+1,53883,﻿              15.19°N 145.74°E               ﻿ ,UnitedStatesdollar(US$)(USD),No Data,.mp,https://en.wikipedia.org//wiki/Northern_Mariana_Islands
 Palau,PW,Ngerulmud,+680,17907,﻿              7.500°N 134.617°E               ﻿ ,UnitedStatesdollar(USD),No Data,.pw,https://en.wikipedia.org//wiki/Palau
@@ -227,13 +222,12 @@ U.S. Virgin Islands,VI               US-VI,Charlotte Amalie,+1,106405,﻿       
 Grenada,GD,St. George's,+1,111454,﻿              12.050°N 61.750°W               ﻿ ,EastCaribbeandollar(XCD),No Data,.gd,https://en.wikipedia.org//wiki/Grenada
 Malta,MT,Valletta,+356,514564,﻿              35.900°N 14.517°E               ﻿ ,Euro(€)(EUR),No Data,.mt,https://en.wikipedia.org//wiki/Malta
 "Saint Helena, Ascension and Tristan da Cunha",SH,Jamestown,"+290 , +247 , +44",No Data,﻿              15.933°S 5.717°W               ﻿ ,SaintHelenapound(£)(SHP)(SaintHelenaandAscension)Poundsterling(£)(GBP),No Data,".sh , .ac","https://en.wikipedia.org//wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha"
-Maldives,MV,MaléOfficial languagesDhivehiRecognised languagesEnglishEthnic groups  (,+960,379270,No Data,Maldivianrufiyaa(MVR),No Data,.mv,https://en.wikipedia.org//wiki/Maldives
+Maldives,MV,Malé,+960,379270,No Data,Maldivianrufiyaa(MVR),No Data,.mv,https://en.wikipedia.org//wiki/Maldives
 Bonaire,"BQ-BO        ,         NL-BQ1",()KralendijkGovernment (see Politics of the Netherlands) • Lt. GovernorEdison RijnaArea[,+599,20104,No Data,USdollar($)(USD),No Data,".nl , .bq",https://en.wikipedia.org//wiki/Bonaire
 Cayman Islands,KY,George Town,+1,65813,﻿              19.333°N 81.400°W               ﻿ ,CaymanIslandsdollar(KYD),No Data,.ky,https://en.wikipedia.org//wiki/Cayman_Islands
 Saint Kitts and Nevis,KN,Basseterre,+1,52441,﻿              17.300°N 62.733°W               ﻿ ,EastCaribbeandollar(XCD),No Data,.kn,https://en.wikipedia.org//wiki/Saint_Kitts_and_Nevis
 Niue,NU,and largest villageAlofi,+683,No Data,﻿              19.05389°S 169.92000°W               ﻿ ,NewZealanddollar[a](NZD),No Data,.nu,https://en.wikipedia.org//wiki/Niue
-Akrotiri and Dhekelia,No Data,"EpiskopiLargest civilian settlementAkrotiriOfficial languagesEnglishCommon languagesGreekTurkishGovernmentDe facto stratocratic dependency under a constitutional monarchy• Monarch Elizabeth II• Administrator Major-General Robert Thomson ex officio
-Government of the United Kingdom• MinisterWendy MortonArea• Total",+357,15700,No Data,Euro(€)(EUR),No Data,No Data,https://en.wikipedia.org//wiki/Akrotiri_and_Dhekelia
+Akrotiri and Dhekelia,No Data,"EpiskopiLargest civilian settlementAkrotiri",+357,15700,No Data,Euro(€)(EUR),No Data,No Data,https://en.wikipedia.org//wiki/Akrotiri_and_Dhekelia
 Saint Pierre and Miquelon,PM               FR-PM,Saint-Pierre,+508,No Data,﻿              46.82500°N 56.27500°W               ﻿ ,Euro(€)(EUR)unofficially:Canadiandollar(C$)(CAD),No Data,.pm,https://en.wikipedia.org//wiki/Saint_Pierre_and_Miquelon
 Cook Islands,CK,Avarua,+682,17459,﻿              21.200°S 159.767°W               ﻿ ,NewZealanddollar(NZD)CookIslandsdollar,No Data,.ck,https://en.wikipedia.org//wiki/Cook_Islands
 American Samoa,AS               US-AS,Pago PagoLargest cityTāfunaOfficial languagesEnglishSamoanEthnic groups ,+1,55212,No Data,UnitedStatesdollar(US$)(USD),No Data,.as,https://en.wikipedia.org//wiki/American_Samoa
@@ -245,12 +239,11 @@ Wallis and Futuna,WF               FR-WF,Matā'Utu,+681,11558,﻿              1
 Christmas Island,CX,"Flying Fish Cove(""The Settlement"")",+61,No Data,﻿              10.42167°S 105.67806°E               ﻿ ,Australiandollar(AUD),No Data,".cx , .au",https://en.wikipedia.org//wiki/Christmas_Island
 Jersey,JE,Saint Helier,+44,107800,﻿              49.1900°N 2.1100°W               ﻿ ,PoundsterlingJerseypound(£)(GBP),No Data,.je,https://en.wikipedia.org//wiki/Jersey
 Montserrat,MS,Plymouth (de jure)[a]Brades (de facto)[b]Little Bay (under construction)[c],+1,No Data,﻿              16.750°N 62.200°W               ﻿ ,EastCaribbeandollar(XCD),No Data,.ms,https://en.wikipedia.org//wiki/Montserrat
-Anguilla,AI,The ValleyOfficial languagesEnglishEthnic groups  (,+1,14731,No Data,EasternCaribbeandollar(XCD),No Data,.ai,https://en.wikipedia.org//wiki/Anguilla
+Anguilla,AI,The Valley,+1,14731,No Data,EasternCaribbeandollar(XCD),No Data,.ai,https://en.wikipedia.org//wiki/Anguilla
 Guernsey,GG,No Data,+44,63026,No Data,PoundsterlingGuernseypound(£)(GBP),No Data,.gg,https://en.wikipedia.org//wiki/Bailiwick_of_Guernsey
 San Marino,SM,San Marino,"+378 , +39",34232,﻿              43.933°N 12.433°E               ﻿ ,Euro(€)(EUR),No Data,.sm,https://en.wikipedia.org//wiki/San_Marino
 British Indian Ocean Territory,No Data,and settlementCamp Justice,+246,No Data,﻿              7.300°S 72.400°E               ﻿ ,UnitedStatesDollar(USDdefacto)[1][2]Poundsterling(GBPdejure)[3][4],54400km2,.io,https://en.wikipedia.org//wiki/British_Indian_Ocean_Territory
-Saint Martin,MF               FR-MF,"MarigotOfficial languagesFrenchDemonym(s)Saint-MartinoisGovernmentDevolved parliamentary dependency• President of France Emmanuel Macron• Prefect Sylvie Feucher• President of theTerritorial Council Daniel Gibbs
-French Parliament• Senate",+590,35334,No Data,Euro(€)(EUR)unofficially:UnitedStatesdollar(US$)(USD),No Data,".mf , .fr , .gp",https://en.wikipedia.org//wiki/Collectivity_of_Saint_Martin
+Saint Martin,MF               FR-MF,"Marigot",+590,35334,No Data,Euro(€)(EUR)unofficially:UnitedStatesdollar(US$)(USD),No Data,".mf , .fr , .gp",https://en.wikipedia.org//wiki/Collectivity_of_Saint_Martin
 Bermuda,BM,Hamilton,+1,71176,﻿              32.300°N 64.783°W               ﻿ ,Bermudiandollar(BMD),No Data,.bm,https://en.wikipedia.org//wiki/Bermuda
 Bouvet Island,BV,No Data,No Data,No Data,No Data,No Data,No Data,".no , .bv",https://en.wikipedia.org//wiki/Bouvet_Island
 Pitcairn Islands,PN,and largest settlementAdamstown,+64,No Data,﻿              25.067°S 130.100°W               ﻿ ,NewZealanddollar(NZ$)[a](NZD),No Data,.pn,https://en.wikipedia.org//wiki/Pitcairn_Islands
@@ -259,11 +252,11 @@ Sint Maarten,SX               NL-SX,Philipsburg,+1,41486,﻿              18.033
 Macau,MO               CN-MO,No Data,+853,696100,No Data,Macanesepataca(MOP),No Data,".mo , .澳門 , .澳门",https://en.wikipedia.org//wiki/Macau
 Tuvalu,TV,Funafuti,+688,11646,﻿              8.517°S 179.200°E               ﻿ ,TuvaluandollarAustraliandollar(AUD),No Data,.tv,https://en.wikipedia.org//wiki/Tuvalu
 Nauru,NR,Yaren (de facto)[a]0°,+674,10670,﻿               0.533°S 166.917°E                 ﻿ ,Australiandollar(AUD),No Data,.nr,https://en.wikipedia.org//wiki/Nauru
-Saint Barthélemy,BL               FR-BL,GustaviaOfficial languagesFrenchRecognised regional languagesSaint-Barthélemy FrenchAntillean CreoleDemonym(s)BarthélemoisSaint-BarthGovernmentDevolved parliamentary dependency• President of France Emmanuel Macron• Prefect Sylvie Feucher.[,+590,No Data,No Data,Euro(€)(EUR),No Data,".bl , .fr",https://en.wikipedia.org//wiki/Saint_Barth%C3%A9lemy
+Saint Barthélemy,BL               FR-BL,Gustavia,+590,No Data,No Data,Euro(€)(EUR),No Data,".bl , .fr",https://en.wikipedia.org//wiki/Saint_Barth%C3%A9lemy
 Sint Eustatius,"BQ-SE        ,         NL-BQ3",()OranjestadGovernment (see Politics of the Netherlands) • Lt. GovernorMarnix van Rij (Government commissioner)[,+599,No Data,No Data,UnitedStatesdollar($)(USD),No Data,".nl , .bq",https://en.wikipedia.org//wiki/Sint_Eustatius
 Cocos (Keeling) Islands,CC,West Island,+61,No Data,﻿              12.18694°S 96.82833°E               ﻿ ,Australiandollar(AUD),No Data,.cc,https://en.wikipedia.org//wiki/Cocos_(Keeling)_Islands
 Saba,"BQ-SA        ,         NL-BQ2",()The BottomGovernment (see Politics of the Netherlands) • Lt.governorJonathan JohnsonArea[,+599,No Data,No Data,UnitedStatesdollar($)(USD),No Data,".nl , .bq",https://en.wikipedia.org//wiki/Saba
-Tokelau,TK,None[a]Largest cityAtafuOfficial languagesTokelauanEnglish[,+690,No Data,No Data,NewZealanddollar(NZ$)(NZD),No Data,.tk,https://en.wikipedia.org//wiki/Tokelau
+Tokelau,TK,None[a]Largest cityAtafu,+690,No Data,No Data,NewZealanddollar(NZ$)(NZD),No Data,.tk,https://en.wikipedia.org//wiki/Tokelau
 Gibraltar,GI,Gibraltar,+350,34003,﻿              36.133°N 5.350°W               ﻿ ,Gibraltarpound(£)(GIP),No Data,.gi,https://en.wikipedia.org//wiki/Gibraltar
 Clipperton Island,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,https://en.wikipedia.org//wiki/Clipperton_Island
 Ashmore and Cartier Islands,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,https://en.wikipedia.org//wiki/Ashmore_and_Cartier_Islands
