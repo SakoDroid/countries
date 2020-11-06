@@ -11,3 +11,9 @@ this csv file contains following data :
 8. Population
 9. Area
 10. Wiki Pedia link
+
+# cities
+A csv file containig all of iran's cities and their data as below :
+1. name
+2. province
+3. national phone code
